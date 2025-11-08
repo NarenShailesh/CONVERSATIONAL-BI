@@ -1,0 +1,7 @@
+{
+  "name": "Conversational BI Assistant",
+  "description": "A natural language interface for business intelligence dashboards, allowing users to ask questions in multiple languages, use voice commands, and receive dynamically generated data visualizations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
